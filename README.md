@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=git-jane-hub)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tech Stack 🛠
+### Tech Stack
 <img src="https://img.shields.io/badge/Java-DA1C1F?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-EFD81F?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0865AC?style=flat-square&logo=jQuery&logoColor=white"/></a>
